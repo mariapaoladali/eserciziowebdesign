@@ -1,0 +1,27 @@
+.hero2{ font-size: 35pt;
+}
+.testo2{ font-size: 20pt;
+max-width: 400px;}
+
+header{ text-decoration: none;
+    display: flex;
+    gap: 550px;
+    font-size: 20pt;
+    }
+    nav{ 
+     display: flex ;
+     gap: 69px ;
+     text-decoration: none;
+     list-style: none;
+     
+    }
+    
+    header a{ text-decoration: none;
+    color: black;
+    font-size: 20pt;
+    }
+ 
+.images2{ max-width: 300px;}
+
+.cont3{ display: flex;
+gap: 60px;}

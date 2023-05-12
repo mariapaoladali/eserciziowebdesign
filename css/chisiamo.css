@@ -1,0 +1,35 @@
+
+header{ text-decoration: none;
+    display: flex;
+    gap: 550px;
+    font-size: 20pt;
+    }
+    nav{ 
+     display: flex ;
+     gap: 69px ;
+     text-decoration: none;
+     list-style: none;
+     
+    }
+    
+    header a{ text-decoration: none;
+    color: black;
+    font-size: 20pt;
+    }
+
+    .hero7{ font-size: 35pt;
+    }
+    .testo0{ font-size: 20pt;
+        max-width: 600px;
+    }
+
+    .contacts{ background-color:rgba(217, 217, 217, 1);
+        font-size: larger;
+}
+
+.icone{ display: flex;
+    max-width: 4%;
+    gap: 10px;
+    margin-left: 89%;
+    margin-top: -8.5%;
+}

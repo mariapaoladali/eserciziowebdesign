@@ -1,0 +1,236 @@
+@import url(camilo.css);
+@import url(karlotta.css);
+@import url(laboca.css);
+@import url(linn.css);
+@import url(tim.css);
+@import url(xoana.css);
+@import url(chisiamo.css);
+
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: white;
+    margin: 50px;
+}
+header{ text-decoration: none;
+display: flex;
+gap: 550px;
+font-size: 20pt;
+}
+nav{ 
+ display: flex ;
+ gap: 69px ;
+ text-decoration: none;
+ list-style: none;
+ 
+}
+
+header a{ text-decoration: none;
+color: black;
+font-size: 20pt;
+}
+.hero {
+    margin-left: 40px;
+    font-size: 35pt;
+}
+
+img{ max-width: 300px;
+    max-height: 300px;
+display: block;
+height: auto;
+}
+
+.img1{ max-width: 300px;
+}
+.camilohuinca { 
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+ .nome1{ text-decoration: none;
+margin-right: 430px;
+font-size: 20pt;
+background-color: #D9D9D9;;
+border-radius: 10px;
+
+}
+ .cit1{ text-decoration: none;
+font-size: 18pt;
+font-style: oblique;
+margin-top: 225px;
+
+}
+ .camilohuinca a{ text-decoration: none;
+    color:#47599E; 
+
+}
+@media(max-width:900px) {
+    .camilohuinca{ display: flex;
+    flex-direction: column;
+}
+.cit1{ margin-top: 20px;
+margin-right: 100px;}
+}
+
+.img1lahane{ max-width: 300px;
+}
+.TimLahane { 
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+ .nome2{ text-decoration: none;
+margin-right: 430px;
+font-size: 20pt;
+background-color: #D9D9D9;
+border-radius: 10px;
+}
+ .cit2{ text-decoration: none;
+font-size: 18pt;
+font-style: oblique;
+margin-top: 225px;
+}
+ .TimLahane a{ text-decoration: none;
+color: #92676D;
+}
+@media(max-width:900px) {
+    .TimLahane{ display: flex;
+    flex-direction: column;
+}
+.cit2{ margin-top: 20px;
+margin-right: 100px;}
+}
+
+.img1freier{ max-width: 300px;
+}
+.KarlottaFreier{ 
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+ .nome3{ text-decoration: none;
+margin-right: 430px;
+font-size: 20pt;
+background-color: #D9D9D9;
+border-radius: 10px;
+}
+ .cit3{ text-decoration: none;
+font-size: 18pt;
+font-style: oblique;
+margin-top: 225px;
+}
+ .KarlottaFreier a{ text-decoration: none;
+color: #E19F0A;
+}
+@media(max-width:900px) {
+    .KarlottaFreier{ display: flex;
+    flex-direction: column;
+}
+.cit3{ margin-top: 20px;
+margin-right: 100px;}
+}
+
+.img1fritz{ max-width: 300px;
+}
+.Linn-Fritz{ 
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+ .nome4{ text-decoration: none;
+margin-right: 430px;
+font-size: 20pt;
+background-color: #D9D9D9;
+border-radius: 10px;
+
+}
+ .cit4{ text-decoration: none;
+font-size: 18pt;
+font-style: oblique;
+margin-top: 225px;
+}
+ .Linn-Fritz a{ text-decoration: none;
+color: #804058;
+}
+@media(max-width:900px) {
+    .Linn-Fritz{ display: flex;
+    flex-direction: column;
+}
+.cit4{ margin-top: 20px;
+margin-right: 100px;}
+}
+
+.img1laboca{ max-width: 300px;
+}
+.LaBoca{ 
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+ .nome5{ text-decoration: none;
+margin-right: 430px;
+font-size: 20pt;
+background-color:#D9D9D9;
+border-radius: 10px;
+}
+ .cit5{ text-decoration: none;
+font-size: 18pt;
+font-style: oblique;
+margin-top: 225px;
+}
+ .LaBoca a{ text-decoration: none;
+color: #F9914C;
+}
+@media(max-width:900px) {
+    .LaBoca{ display: flex;
+    flex-direction: column;
+}
+.cit5{ margin-top: 20px;
+margin-right: 100px;}
+}
+
+.img1herrera{ max-width: 300px;
+}
+.XoanaHerrera{ 
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+ .nome6{ text-decoration: none;
+margin-right: 430px;
+font-size: 20pt;
+background-color: #D9D9D9;
+border-radius: 10px;
+}
+ .cit6{ text-decoration: none;
+font-size: 18pt;
+
+font-style: oblique;
+margin-top: 225px;
+}
+ .XoanaHerrera a{ text-decoration: none;
+color:  #FF95ED;
+}
+@media(max-width:900px) {
+    .XoanaHerrera{ display: flex;
+    flex-direction: column;
+}
+.cit6{ margin-top: 20px;
+margin-right: 100px;}
+}
+.icone{ display: flex;
+    gap: 10px;
+    margin-left: 78%;
+    margin-top: -10%;
+}
